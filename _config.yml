@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: 'https://Firefox2100.github.io'
-baseurl: 'Firefox2100'
+baseurl: 
 permalink: pretty
 
 # Pagination
@@ -118,12 +118,12 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: categories/
-  #about: about/
-  archives: archives/
-  tags: tags/
-  #sitemap: sitemap.xml
-  #commonweal: 404.html
+  #categories: /categories/
+  #about: /about/
+  archives: /archives/
+  tags: /tags/
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
