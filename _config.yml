@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Blog of Firefox2100
-subtitle: Created on 2/9/2020
+title: Firefox2100's Blog
+subtitle: Created 2/9/2020
 description:
 author: Yunze Wang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -14,8 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://Firefox2100.github.io'
-baseurl: 
+url: https://Firefox2100.github.io
+baseurl:
 permalink: pretty
 
 # Pagination
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Firefox2100,Blog"
+keywords: "Firefox2100, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -87,7 +87,7 @@ keywords: "Firefox2100,Blog"
 rss:
 
 # Specify the date when the site was setup
-since: 2020
+#since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
