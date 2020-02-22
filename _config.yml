@@ -89,7 +89,7 @@ keywords: "Firefox2100, Blog"
 rss:
 
 # Specify the date when the site was setup
-#since: 2020
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -217,7 +217,10 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/Firefox2100
-
+  Twitter: https://twitter.com/Firefox21001
+  Telegram: https://t.me/F1ref0x666
+  Gmail: wangyunze16@gmail.com
+  Facebook: https://www.facebook.com/yunze.wang.3
 
 # Social Links Icons
 # Icon Mapping:
@@ -231,7 +234,9 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-
+  Facebook: facebook-official
+  Telegram: telegram
+  Gmail: envelope
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -253,7 +258,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-#creative_commons:
+creative_commons: by-nc-nd
 
 
 sidebar:
@@ -364,8 +369,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -437,12 +442,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  enable: true
+  clientID: cc46a348e349e89b39f8
+  clientSecret: 433397d59ba32cb8dc5e9357824b92d17cd37d63
+  repo: Firefox2100.github.io
+  owner: Firefox2100
+  admin: Firefox2100
 
 # Baidu Share
 # Available value:
@@ -517,8 +522,8 @@ vkontakte_api:
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
 rating:
-  enable: false
-  id:     #<app_id>
+  enable: ture
+  id: 23548
   color:  fc6423
 
 
