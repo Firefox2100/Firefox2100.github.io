@@ -6,6 +6,7 @@ categories:
 tags:
 - Object-tracking
 - Kalman filtering
+- SCK
 ---
 
 > 在之前的文章里，我们完成了SIFT和CBWH方法的基本学习。在之后的这一系列文章中，我们将进行卡尔曼滤波的学习。
