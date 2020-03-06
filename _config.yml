@@ -73,6 +73,10 @@ plugins:
  - jekyll-sitemap
  - jekyll-feed
 
+collections:
+  - protected
+
+
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
