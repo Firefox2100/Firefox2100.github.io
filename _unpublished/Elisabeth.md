@@ -178,7 +178,7 @@ Elisabeth, Elisabeth, Elisabeth!
 Elisabeth!
 伊丽莎白
 
-Elisabeth! Elizabeth! 
+Elisabeth! Elizabeth!
 伊丽莎白，伊丽莎白
 
 Elisabeth, Elisabeth, Elisabeth!
@@ -187,7 +187,7 @@ Elisabeth, Elisabeth, Elisabeth!
 Elisabeth!
 伊丽莎白
 
-Elisabeth! Elizabeth! 
+Elisabeth! Elizabeth!
 伊丽莎白，伊丽莎白
 
 Elisabeth, Elisabeth, Elisabeth!
@@ -196,7 +196,7 @@ Elisabeth, Elisabeth, Elisabeth!
 Elisabeth!
 伊丽莎白
 
-Elisabeth! Elizabeth! 
+Elisabeth! Elizabeth!
 伊丽莎白，伊丽莎白
 
 Elisabeth, Elisabeth, Elisabeth!
@@ -509,3 +509,525 @@ Sie fiebert...
 
 Niemand versteht mich so wie du!
 没人如你这般理解我！
+
+### AUDIENZSAAL DER HOFBURG IN WIEN
+
+Wir schreiben das Jahr Achtzehnhundertdreiundfünfzig. In Wien regiert der junge Kaiser Franz Joseph. Seine Herrschaft beruht auf einem stehenden Heer von Soldaten, einem sitzenden Heer von Beamten, einem Knieenden Heer von Priestern, und einem schleichenden Heer von Denunzianten. Und - auf den Ratschlägen seiner Mutter, von der man sagt, sie sei der einzige Mann bei Hofe.
+我们的故事发生在1853年。在维也纳手握大权的是年轻的皇帝弗朗兹·约瑟夫。他的统治建立在一群站着的士兵，一群坐着的官员，一群跪着的神职人员，和一群爬着的秘密警察之上。以及————也在他母亲的建议之下，据说，她才是这个宫廷真正的主人。
+
+Sei streng!
+要严厉！
+Sei stark!
+要强硬！
+Sei kalt!
+要冷酷！
+Sei hart!
+要坚强！
+
+Jedem gibt er das Seine
+一切与大家共享
+alles bringt er ins Reine –
+为百姓谋福祉
+Gott erhalte, Gott beschütze
+上帝接纳，上帝保佑
+uns den jungen Kaiser!
+我们年轻的皇帝！
+
+Der Kardinalerzbischof!
+传，大主教！
+
+Majestät, die heil'ge Kirche stösst auf Widerstand...
+陛下，我们神圣的教堂遭到了攻击......
+
+Empörend!
+令人气愤！
+
+Majestät, die Kirche wünscht die Schulaufsicht im Land!
+陛下，教会希望能够监管全国的学校教育！
+
+Gewährt!
+准奏！
+
+Jedem gibt er das Seine
+一切与大家共享
+alles bringt er ins Reine –
+为百姓谋福祉
+Gott erhalte, Gott beschütze
+上帝接纳，上帝保佑
+uns den jungen Kaiser!
+我们年轻的皇帝！
+
+Eine Mutter!
+传，一位母亲！
+
+Majestät, mein Sohn rief "Freiheit"
+陛下，我的儿子为自由呐喊
+und kam vor Gericht –
+却被法庭宣判
+
+Erfreulich!
+大快人心！
+
+Gnade, Gnade!
+开恩，开恩啊！
+\- Was auch war, den Tod verdient er nicht!
+无论如何，他也罪不至死啊！
+
+Wenn ich so könnte, wie ich wollte ..
+如果我可以依自己的意愿行事
+
+Sei streng!
+要严厉！
+
+Müsst' ich nicht das tun, was ich sollte,
+如果我没有义务必须履行
+
+Sei stark!
+要强硬！
+
+dann wär' ich lieber mitleidsvoll und gut.
+那我更愿意热血而善良
+
+Sei kalt!
+要冷酷！
+Sei hart!
+要坚强！
+Sei kalt!
+要冷酷！
+Sei hart!
+要坚强！
+
+Abgelehnt!
+不予批准！
+
+Nein!!!
+不！！！
+
+Was liegt noch an?
+还有什么事务？
+
+Die Besprechung der politischen Lage.
+还有一个政治会谈
+
+Majestät, der Krimkrieg droht sich ernsthaft auszuweiten.
+陛下，克里米亚战争形势不断扩大
+Dass wir Russland diesmal beisteh'n, ist nicht zu vermeiden.
+无可避免地，我们这次需要支援俄国
+Russland danken wir die Rettung vor der Revolution.
+这样既可以借机感谢俄国帮我们镇压革命
+Ausserdem: ein Stück Türkei erhalten wir als Lohn!
+外加：我们也可以得到土耳其的一块领土作为回报！
+
+Wie beurteilen Sie die Lage, Graf Grünne?
+这个情况你怎么看，格林纳伯爵？
+
+Stehn wir zu Russland, grollt uns England.
+出兵支持俄国，就必定惹怒英国
+Gehn wir mit England, zürnt uns Russland.
+出兵支持英国，就必定惹怒俄国
+In jedem Fall - ein Bündnis wär’ fatal.
+无论怎样，损失一个盟友在所难免
+
+Wir müssen uns entscheiden!
+我们必须定下主意！
+
+Der Kaiser von Österreich muss gar nichts!
+奥地利皇帝没有义务做任何事！
+
+Ich darf Majestät untertänigst daran erinnern,
+在下希望提醒陛下
+dass die Kutsche nach Bad Ischl wartet.
+您去巴德伊舍的马车已经备好了
+
+Kriege sollen andere führen.
+让别人去打仗吧
+Das glückliche Österreich heiratet...
+幸福的奥地利要结婚了
+
+Jedem gibt er das Seine
+一切与大家共享
+alles bringt er ins Reine –
+为百姓谋福祉
+Gott erhalte, Gott beschütze
+上帝接纳，上帝保佑
+uns den jungen Kaiser!
+我们年轻的皇帝！
+Jedem gibt er das Seine
+一切与大家共享
+alles bringt er ins Reine –
+为百姓谋福祉
+Gott erhalte, Gott beschütze
+上帝接纳，上帝保佑
+uns den jungen Kaiser!
+我们年轻的皇帝！
+
+nie zu früh entscheiden,
+决断不要下的太早
+Ja und Nein vermeiden.
+是非不要说得明白
+Habsburgs Vorteil sehn
+好处尽收囊中
+und Opfern entgehn.
+恶果推给他人
+
+### BAD ISCHL
+
+August 1853. Bad Ischl. Der Kaiser von Österreich trifft eine principessa aus dem Bauernadel. Warum? Magari... le mamme! Die Mütter wollen es so. Sie haben ein Rendezvous geplant, weitab von Wien am Fuße der Alpen... A, perque non? Ein Sommer in Bad Ischl ist eine Reise wert, und das Herz so hoffnungsvoll. Sophie hat ihrer Schwester die Sache gut erklärt, doch sie läuft nicht, wie sie soll -
+1853年8月，巴德伊舍。奥地利的皇帝遇到了一位乡下出身的年轻公主。为什么呢？有可能是因为，母亲大人希望如此。精心策划了一场会面，从维也纳大老远来到阿尔卑斯山脚下。简直就像珍珠一样亮丽，不是吗？夏季的巴德伊舍值得一游，心中满溢着希望。索菲将计划对她妹妹详尽详尽地解释了，但她妹妹并没有照章办事————
+
+Warum kommt ihr erst jetzt?
+为什么这么晚才来？
+
+Ein Wetter hielt uns auf!
+都是因为这天气！
+Wir brauchen jetzt ein wenig Ruhe ...
+我们现在需要休息一下......
+
+Wo denkst du hin? Der Kaiser erwartet euch um vier –
+想到哪去了？皇帝从四点开始就在等你们了————
+
+Was?
+什么？
+
+Schon?
+已经到了？
+
+Wie sieht Helene aus?
+海伦看起来怎么样？
+
+Max lässt sich entschuldigen ...
+马克斯深表歉意......
+doch ich hab’ Sisi mitgebracht.
+但是我把茜茜带来了
+
+Das Kleid ist ganz unmöglich!
+这裙子绝对不行！
+Scheusslich die Frisur!
+更别提这头发了！
+
+Ich zieh mich um!
+我这就去换！
+
+Das geht nicht mehr!
+来不及了！
+Einen Kaiser lässt man nicht warten!
+皇帝可是不等人的！
+
+Was nützt ein Plan
+精密策划又能如何
+ \- ist er auch noch so schlau!?
+————难道真能滴水不漏？
+Er bleibt doch immer Theorie.
+从来不过是纸上谈兵
+Und nur das eine weiss man ganz genau:
+只有一件事能够确定：
+So wie man plant und denkt,
+谋事在人
+so kommt es nie!
+成事在天！
+
+Die Mütter sind gesprächig,
+两位母亲七嘴八舌
+der junge Kaiser schweigt.
+皇帝在旁一言不发
+Die Heiratskandidatin schwitzt.
+候选新娘如坐针毡
+Die Sache wird genierlich,
+事情的进展开始有趣
+weil jetzt der Kaiser zeigt,
+因为皇帝已经开始表现
+dass er Eigensinn besitzt.
+确定了自己喜欢的人选
+
+Nun, Franz, sag rundheraus, wie sie dir gefällt...
+那么，弗朗兹，你觉得她怎么样？
+
+Wer?
+谁？
+
+... deine reizende Cousine?
+你迷人的表妹？
+
+Wie eine frische Mandel,
+她就像成熟的杏桃
+die grad zerspringt.
+芳香四溢
+
+Das ist ja beinah Poesie!
+多么有诗意！
+
+Sie hat so liebe, sanfte Augen  
+她的眼睛多么温柔可人
+und Lippen, rot wie Erdbeeren.
+嘴唇也想草莓般红艳
+
+Und ein ordentliches Becken!
+还有这丰臀！
+
+So?
+真的？
+
+Auf dem Ball heut Abend tanz ich ...
+今晚的舞会上......
+
+Ja?
+怎样？
+
+...nur mit ihr!
+我只与她共舞！
+
+Er mag sie!
+他喜欢她！
+
+Nun, dann lad’ sie ein!
+那么，就去邀请她吧！
+
+Komm her!
+过来这边！
+Geh zu ihr! Nimm sie in den Arm!
+走向她！把她抱在怀里！
+
+Wie?
+怎么？
+
+Die?
+她？
+
+Was nützt ein Plan
+精密策划又能如何
+ \- ist er auch noch so schlau!?
+————难道真能滴水不漏？
+Er bleibt doch immer Theorie.
+从来不过是纸上谈兵
+Und nur das eine weiss man ganz genau:
+只有一件事能够确定：
+So wie man plant und denkt,
+谋事在人
+so kommt es nie!
+成事在天！
+
+Warum ich?
+为什么是我？
+
+Weil ich dich mag.
+因为我喜欢你
+
+Doch meine Schwester ist viel schöner.
+但我姐姐比我漂亮多了
+
+Er nimmt eine meiner Töchter.
+他选了我的女儿
+
+Doch die Falsch.
+但是选错了人
+
+Drei Jahre probiert, französisch parliert,
+三年苦学，练习法语
+Manieren einstudiert.
+钻研礼仪
+
+Drei Jahre Ermahnung, Erziehung und Planung ...
+三年培养，教育和计划
+umsonst! Alles umsonst!
+白费了！全都白费了！
+
+Was nützt ein Plan
+精密策划又能如何
+ \- ist er auch noch so schlau!?
+————难道真能滴水不漏？
+Er bleibt doch immer Theorie.
+从来不过是纸上谈兵
+Und nur das eine weiss man ganz genau:
+只有一件事能够确定：
+So wie man plant und denkt,
+谋事在人
+so kommt es nie!
+成事在天！
+
+Und nur das eine weiss man ganz genau:
+只有一件事能够确定：
+So wie man plant und denkt,
+谋事在人
+so kommt es nie!
+成事在天！
+
+### ZWISCHEN HIMMEL UND ERDE
+
+Niemand wird so glücklich sein wie wir.
+没人体会过我们的这种幸福
+Du und ich tun nur, was uns gefällt.
+你我只做自己喜欢的事
+Bei der Arbeit sitz ich immer neben dir
+工作时我常伴你身侧
+Und danach reit ich mit dir durch Wald und Wiesen.
+闲暇时一起骑马驰过树林和草地
+Ich werd mich in deinen Augen sehn.
+我将在你的眼中长久驻留
+Ich reis’ mit dir um die ganze Welt.
+一起环游世界
+Will mit dir auf hohen Bergen stehn,
+一起在高山上并肩而立
+Hand in Hand und barfuss über weisse Strände gehn.
+手牵着手赤脚走过白色的沙滩
+Grenzenlos weit, schrankenlos frei.
+世界无垠，无拘无束
+
+Eins musst du wissen,
+有一件事你需要明白
+ein Kaiser ist nie für sich allein.
+皇帝并非自由之身
+Mit mir zu leben, wird oft nicht einfach für dich sein.
+和我在一起生活，对你也并不轻松
+
+Was andre wichtig finden,
+别人所在意的
+zählt nicht für mich.
+我嗤之以鼻
+
+Vieles wird sich ändern.
+你的生活会完全不同
+
+Doch ich hab’ ja dich!
+但是我有你！
+
+Nichts ist schwer,
+没有什么难事
+solang du bei mir bist.
+只要和你在一起
+Wenn ich dich hab’,
+如果我有你
+gibt es nichts, was unerträglich ist.
+没有什么不能忍受
+Wenn ich meinen Mut mal verlier,
+如果我失去了勇气
+finde ich ihn wieder bei dir.
+你能重新给我
+Es fehlt mir nichts,
+我不再若有所失
+wenn du nur bei mir bist.
+只要你和我在一起
+
+Im Joch der vielen Pflichten
+义务的重担之下
+geht mancher Traum verlor’n...
+有的梦想早已消失
+
+Doch unser Traum bleibt nah!
+但我们的梦想依然亲近
+
+Wir sind nicht wie die andern
+我们与他人不同
+zum Glücklichsein gebor’n.
+天生便无幸福
+
+Doch füreinander da!
+但我们会为彼此守候！
+
+Du wirst das Leben bald
+你的生活很快便将
+durch meine Augen sehn.
+通过我的眼睛考量
+Und jeden Tag mich ein wenig
+一天一天地
+mehr verstehn.
+更了解我
+
+Hier nimm diese Kette... als Zeichen,
+来，带上这项链，作为一个见证
+dass du nun bei mir bist.
+你和我在一起
+
+Wie kostbar!
+多么珍贵啊！
+
+Ich lieb dich... Ich brauch dich!
+我爱你......我需要你！
+
+Wie schwer die Kette ist.
+这项链多么沉重
+
+Wenn ich meinen Mut mal verlier,
+如果我失去了勇气
+finde ich ihn wieder bei dir.
+你能重新给我
+Es fehlt mir nichts,
+我不再若有所失
+wenn du nur bei mir bist.
+只要你和我在一起
+Ich lieb dich.
+我爱你
+Ich brauch dich.
+我需要你
+Lass mich nie allein!
+永远不要丢下我一个人！
+
+### AUGUSTINERKIRCHE IN WIEN
+
+Alle Fragen sind gestellt
+所有的问题都有人问过
+und alle Phrasen eingeübt.
+所有的对白都排练过
+Wir sind die letzten einer Welt,
+我们便是世界的终末
+aus der es keinen Ausweg gibt.
+这里永远无法逃脱
+Denn alle Sünden sind gewagt.
+所有的罪恶我们都敢做
+Die Tugenden sind einstudiert,
+所有的美德不过是一场排演
+und alle Flüche sind gesagt,
+所有的诅咒都已经出口
+und alle Segen revidiert.
+所有的祝福都已经改变
+Die Hässlichkeit empört uns nicht.
+丑陋的事物不再让我们愤怒
+Die Schönheit scheint uns längst banal.
+美好的事物只是微不足道
+Die gute Tat belehrt uns nicht.
+善举不再能教育我们
+Die böse Tat ist uns egal.
+恶行也不过小事一桩
+Denn alle Wunder sind geschehn,
+因为所有的奇迹已经是过眼云烟
+und alle Grenzen sind zerstört.
+所有的界限都已被摧毁
+Wir haben jedes Bild gesehn,
+我们看尽人间世事
+uns alle Klänge totgehört.
+醒世之钟也充耳不闻
+Alle Fragen sind gestellt,
+所有的问题都有人问过
+und alle Chancen sind verschenkt.
+所有的机会也已经拱手送人
+Wir sind die letzten einer Welt,
+我们便是世界的终末
+die stets an ihren Selbstmord denkt.
+自我毁灭近在眼前
+Und alles, alles was passiert,
+所有发生的事
+hilft uns, die Zeit zu überstehn.
+不过是帮我们打发时间
+Weil jedes Leid uns delektiert,
+因为苦痛成了我们的欢愉
+sehn wir dich gerne untergehn.
+拭目以待，你的痛苦
+Elisabeth ...
+伊丽莎白......
+Elisabeth.
+伊丽莎白
+
+... den heiligen Bund der Ehe zu schließen mit seiner
+......步入神圣的婚姻殿堂
+apostolischen Majestät Franz Joseph von Gottes Gnaden
+与上帝的选民弗朗兹·约瑟夫
+Kaiser von Österreich, König von Böhmen, Slawonien und
+奥地利皇帝，波希米亚，斯拉沃尼亚和威内托大的君主
+Venetien, Beschirmer von Jerusalem. Wenn das Euer Wille ist,
+耶路撒冷的守护者一起。如果这是出于你自己的意愿
+so antwortet mit Ja!
+请回答愿意！
+
+Ja!
+我愿意！
+
+### BALLSAAL IM SCHLOSS SCHÖNBRUNN
