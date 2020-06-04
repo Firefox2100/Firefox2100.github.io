@@ -1031,3 +1031,283 @@ Ja!
 我愿意！
 
 ### BALLSAAL IM SCHLOSS SCHÖNBRUNN
+
+Diese Hochzeit ist Ihr Werk, Frau Schwägerin.
+这场婚礼是您的杰作，
+
+Sind Sie jetzt zufrieden?
+现在您满意了吗？
+
+Nein. Aber Ihnen gratuliere ich, Herr Brautvater.
+不。但是我还是得恭喜你，我的好亲家
+
+Gratulieren Sie mir nicht.
+千万别恭喜我
+Liebe macht dumm
+爱情使人头昏
+Sisi gibt für ihn
+茜茜为他放弃了
+auf, was das Leben verschönt.
+生命中美好的事物
+Wien bringt sie um.
+维也纳会毁了他们
+Sie sollte fliehn,
+她应该赶快逃走
+ehe sie sich dran gewöhnt.
+在变得麻木之前
+
+Liebe macht blind!
+爱情使人盲目
+Franz weiss nicht, was er tut.
+弗朗兹不知道自己在做什么
+Er hat auf mich nicht gehört.
+不再对我言听计从
+
+Warum musste es der sein?
+为什么一定要这样？
+
+Seh ich das Kind,
+一看见那孩子
+packt mich die Wut.
+我就气不打一处来
+Sie hat meine Pläne zerstört.
+她毁了我的计划
+Der Kleinen fehlt fast alles...
+小家伙简直一无是处
+
+Dem Kaiser fehlt fast alles...
+皇帝简直一无是处
+
+...was eine Kaiserin braucht.
+没有一点皇后的样子
+
+...was meine Sisi braucht.
+没有一点丈夫的样子
+
+Ich seh sie...
+我看见她
+
+...und denkt bei mir:
+就在想：
+
+Er passt nicht zu ihr!
+他配不上她
+
+Sie passt nicht zu ihm!
+她配不上他
+
+Er passt nicht zu ihr!
+他配不上她
+
+Sie passt nicht zu ihm!
+她配不上他
+
+Er passt nicht...!
+他们配不上
+
+...er passt nicht,
+他们配不上
+er passt nicht zu ihr!
+他配不上她
+
+Was für eine schöne Trauung!
+多么盛大的婚礼
+Der Rauscher hat zu lang geredet
+就是施劳尔废话太多
+
+Wirklich süss! Rührend naiv!
+多么甜美！多么天真！
+Und weich wie Wachs! Redet nicht viel.
+百依百顺！也沉默寡言
+
+Wie gefällt Ihnen die neue Kaiserin?
+你们觉得新皇后怎么样？
+Aussehn tut sie nett.
+看起来很和善
+
+Neu am Hof, einfach zu führn.
+初来乍到，容易摆布
+Mit der haben wir leichtes Spiel!
+对付她轻而易举
+
+Ihr Stammbaum hat zwar Fehler...
+出身是个缺点
+Das woll'n wir übersehen!
+但是可以忽略不计
+Ein Kind noch!
+她还是个孩子
+Es gibt schlechte Omen:..
+而且有过凶兆
+
+Sie ist freundlich!
+她还挺和善
+
+... In der Schatzkammer...
+在皇家宝库
+
+Sie ist schüchtern!
+她也挺羞涩
+
+...fiel die Krone zu Boden.
+皇冠摔落在地上
+
+Sie ist naiv!
+她也挺天真
+
+...Und beim Aussteigen aus der Kutsche...
+从马车上下来时
+
+Etwas linkisch!
+还有点笨拙
+
+...verlor die junge Kaiserin...
+年轻的皇后差点遗失了
+
+Sie tut sich...
+她现在做的
+
+...beinah ihr neues Diadem.
+她的新皇冠
+
+...noch schwer!
+可不容易
+
+Es ist fast wie im Märchen:
+简直像童话一样
+Ein Kind wird Kaiserin!
+小孩子当了皇后
+Sowas gibt es sonst nicht mehr.
+简直是前所未有
+
+Rotgeweinte Augen!
+哭红的双眼
+Ungeschickt und brav!
+笨拙又顺从
+So entzückend hilflos wie ein Schaf!
+像绵羊一样无助，赏心悦目
+Hat kein Gewicht, ist ein kleines Licht.
+无足轻重，也黯淡无光
+
+Sie passt gut hierher!
+她太适合这里了
+
+Sie passt gut hierher!
+她太适合这里了
+
+Sie passt nicht hierher!
+她不适合这里
+
+Sie passt nicht hierher!
+她不适合这里
+
+Sie passt gut...
+她太适合
+Sie passt nicht,
+她不适合  
+sie passt gut/nicht hierher!
+她太适合/不适合这里
+
+Es ist ein altes Thema,
+这是个古老的主题
+doch neu für mich.
+对我却很新鲜
+Zwei, die dieselbe lieben
+两人爱上同一名女子
+\- nämlich dich.
+也就是你
+Du hast dich entschieden.
+你做了决定
+Ich hab' dich verpasst.
+我失去了你
+Bin auf deiner Hochzeit
+我在你的婚礼上
+nur der Gast.
+不过是个客人
+Du hast dich abgewendet.
+你转身背向我
+Doch nur zum Schein.
+不过是伪装
+Du willst ihm treu sein,
+你想忠于他
+Doch du lädst mich ein.
+却又邀请我来此
+Noch in seinen Armen
+即使在他的怀抱中
+lächelst du mir zu.
+你也对我微笑
+Und wohin das führ'n wird,
+这将导致什么
+weisst auch du -
+你自己也清楚
+Der letzte Tanz, der letzte Tanz
+最后一支舞，最后一支舞
+gehört allein nur mir.
+只属于我一人
+Den letzten Tanz, den letzten Tanz
+最后一支舞，最后一支舞
+tanz ich allein mit dir.
+与你独自起舞
+Die Zeit wird alt und müde,
+时光沉醉
+der Wein wird schal.
+红酒索然无味
+Die Luft ist schwül
+空气也粘着压迫
+und stickig im Spiegelsaal.
+镜子大厅里沉闷一如往常
+Unsichtbare Augen sehn uns beiden zu.
+无形的双眼注视着我们
+Alle warten auf das Rendezvous.
+每个人都在期待着一场约会
+Der letzte Tanz, der letzte Tanz
+最后一支舞，最后一支舞
+gehört allein nur mir.
+只属于我一人
+Den letzten Tanz, den letzten Tanz
+最后一支舞，最后一支舞
+tanz ich allein mit dir.
+与你独自起舞
+Und so wart ich im Dunkel
+我在黑暗中
+und schau zu dir hin
+注视着你
+als der grosse Verlierer.
+现在我不过是个失败者
+Doch ich weiss, ich gewinn!
+但我知道，我终会胜利
+Der letzte Tanz, der letzte Tanz
+最后一支舞，最后一支舞
+gehört allein nur mir.
+只属于我一人
+Den letzten Tanz, den letzten Tanz
+最后一支舞，最后一支舞
+tanz ich nur mit dir.
+我只会与你起舞
+
+Uh-uh-uh...
+
+Der letzte Tanz, der letzte Tanz
+最后一支舞，最后一支舞
+gehört allein nur mir.
+只属于我一人
+Den letzten Tanz, den letzten Tanz
+最后一支舞，最后一支舞
+tanz ich allein mit dir.
+与你独自起舞
+
+Wien am Ende. Zeitenwende.
+末日的维也纳。时光静止
+Alle Fragen sind gestellt.
+所有的问题都已被问过
+
+Der letzte Tanz, der letzte Tanz
+最后一支舞，最后一支舞
+gehört allein nur mir.
+只属于我一人
+Den letzten Tanz, den letzten Tanz
+最后一支舞，最后一支舞
+tanz ich/tanzt er allein...
+与你独自
+
+...mit dir.
+起舞
