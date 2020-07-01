@@ -1,1 +1,59 @@
-
+<div class="header">
+    <nav class="nav_bar">
+        <ul>
+            <!-- left header -->
+            <li
+                class="li_left">
+                <!-- access token -->
+                {% if page.encrypted_text == true %}
+                    <a class="header_btn" id="acs_btn" onclick="apply_token()">
+                        <i class="fa fa-key">
+                            {% if page.btn_text != false %}
+                                <p class="btn_text">Token</p>
+                            {% endif %}
+                        </i>
+                    </a>
+                    <textarea class="access_token" cols="8" id="acs_tkn" rows="1"></textarea>
+                {% endif %}
+            </li>
+        </ul>
+    </nav>
+    <hr/>
+</div>
+<!-- encrypt and decrypt -->
+{% if page.encrypted_text == true %}
+    <script src="https://firefox2100.github.io/assets/js/sjcl.js" async></script>
+    <script>
+  function decrypt_all(pwd, class_name) {
+    var elem_clct = document.getElementsByClassName(class_name);
+    if (elem_clct.length == 0) {
+      console.log("No texts to decrypt!");
+      return false;
+    }
+    for (acc = 0; acc < elem_clct.length; acc++) {
+      var encrypted = elem_clct[acc].id;
+      var ct =
+        '{"iv":"' +
+        encrypted.substring(0, 22) +
+        '==",salt:"","ct":"' +
+        encrypted.substring(22) +
+        '"}';
+      try {
+        var txt = sjcl.json.decrypt(pwd, ct);
+      } catch (e) {
+        alert("Invalid Access Token!");
+        return;
+      }
+      elem_clct[acc].innerHTML = txt;
+    }
+    return true;
+  }
+  function apply_token() {
+    var tkn = document.getElementById("acs_tkn");
+    if (decrypt_all(tkn.value, "encrypted")) {
+      tkn.style.display = "none";
+      document.getElementById("acs_btn").style.display = "none";
+    }
+  }
+</script>
+{% endif %}
