@@ -1,23 +1,5 @@
 // Custom styles.
-
-$color-warning: rgb(194, 5, 5);
-.nav_bar {
-    text-align: left;
-    display: block;
-    list-style: none;
-    padding: 6px 12px;
-    word-wrap: none;
-    overflow: hidden;
-    white-space: nowrap;
-    ul {
-      padding: 0;
-      margin: 0;
-      .li_left {
-        list-style: none;
-        display: inline-block;
-        cursor: pointer;
-      }
-      .header_btn {
+  .header_btn {
         display: inline-block;
         .btn_text {
           font-style: normal;
@@ -29,12 +11,10 @@ $color-warning: rgb(194, 5, 5);
           font-weight: 400;
           text-decoration: underline;
         }
-      }
-      .access_token {
+    }
+  .access_token {
         resize: none;
         float: right;
         display: inline-flexbox;
         margin: 0px 5px;
       }
-    }
-  }

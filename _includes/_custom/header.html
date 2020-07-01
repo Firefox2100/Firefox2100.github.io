@@ -1,10 +1,4 @@
 <div class="header">
-    <nav class="nav_bar">
-        <ul>
-            <!-- left header -->
-            <li
-                class="li_left">
-                <!-- access token -->
                 {% if page.encrypted_text == true %}
                     <a class="header_btn" id="acs_btn" onclick="apply_token()">
                         <i class="fa fa-key">
@@ -15,9 +9,7 @@
                     </a>
                     <textarea class="access_token" cols="8" id="acs_tkn" rows="1"></textarea>
                 {% endif %}
-            </li>
-        </ul>
-    </nav>
+    
     <hr/>
 </div>
 <!-- encrypt and decrypt -->
